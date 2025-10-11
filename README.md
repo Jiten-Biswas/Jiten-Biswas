@@ -36,7 +36,7 @@ I'm currently building:
 
 ## 📫 Let's Connect!
 
-- 💌 Email: [jitenbiswasjb@gmail.com](mailto:jitenbiswasjb@gmail.com)  
+- 💌 Email: [jitenbiswask@gmail.com](mailto:jitenbiswasjb@gmail.com)  
 - 🔗 LinkedIn: [linkedin.com/in/jitenbiswas](https://linkedin.com) *(add actual link)*  
 - 🧠 Projects & ideas: Always open for collaboration!
 
