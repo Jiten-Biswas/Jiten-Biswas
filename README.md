@@ -26,9 +26,9 @@
 - 🐍 Python Programming — *Coding Ninjas (6-week training)*  
 
 ---
+### Social Links
 
-### 🌐 Connect with Me
 📧 **Email:** [jitenbiswask@gmail.com](mailto:jitenbiswask@gmail.com)  
-🔗 **LinkedIn:** [linkedin.com/in/jiten-biswas-189b18383](https://www.linkedin.com/in/jiten-biswas-189b18383)  
+🔗 **LinkedIn:** [linkedin.com/in/jiten-biswas-189b18383](https://linkedin.com/in/jiten-biswas-189b18383)  
 💻 **GitHub:** [github.com/Jiten-Biswas](https://github.com/Jiten-Biswas)  
-📄 **Resume:** [Download PDF]JITEN_BISWAS_BWU_BTA_22_293.pdf))  
+📄 **Resume:** [Download Resume (PDF)](./JITEN_BISWAS_BWU_BTA_22_293.pdf)
