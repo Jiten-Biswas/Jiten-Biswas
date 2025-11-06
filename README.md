@@ -31,4 +31,4 @@
 📧 **Email:** [jitenbiswask@gmail.com](mailto:jitenbiswask@gmail.com)  
 🔗 **LinkedIn:** [linkedin.com/in/jiten-biswas-189b18383](https://www.linkedin.com/in/jiten-biswas-189b18383)  
 💻 **GitHub:** [github.com/Jiten-Biswas](https://github.com/Jiten-Biswas)  
-📄 **Resume:** [Download PDF]https://github.com/Jiten-Biswas/resume-jiten-biswas/blob/main/JITEN_BISWAS_BWU_BTA_22_293.pdf))  
+📄 **Resume:** [Download PDF]JITEN_BISWAS_BWU_BTA_22_293.pdf))  
